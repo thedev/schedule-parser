@@ -8,4 +8,4 @@ Requirements
 How to run the program
 
 - run `npm link` in current dir
-- run `cron <expression>` command
+- run `cron "*/15 0 1,15 * 1-5 /usr/bin/find ` command
